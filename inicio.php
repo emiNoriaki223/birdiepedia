@@ -1,3 +1,12 @@
+<?php
+//bom dia
+//boa tarde
+//boa noite
+//boa madrugada
+//eu to gastando minha IA do copilot pra escrever comentarios bobos
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
