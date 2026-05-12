@@ -1,10 +1,7 @@
 <?php
-//bom dia
-//boa tarde
-//boa noite
-//boa madrugada
-//eu to gastando minha IA do copilot pra escrever comentarios bobos
 
+session_start();
+include "config.php";
 
 ?>
 <!DOCTYPE html>
