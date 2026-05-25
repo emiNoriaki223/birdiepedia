@@ -13,7 +13,7 @@ include "config.php";
     <title>birdiepedia</title>
     <script src="../js/inicio.js"></script>
 </head>
-<body>
+<body class="body-inicio">
     <img src="../imgs/BIBI.png" class="bibi">
     <div class="passaros">
         <img src="../imgs/bemtevi.jpg" id="bemtevi">
