@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="../css/estilo-singin.css">
     <link rel="stylesheet" href="../css/reset.css">
-    <link rel="stylesheet" href="../css/responsivo-home.css">
+    <link rel="stylesheet" href="../css/responsivo.css">
 
 <!-- fontes :3 -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
