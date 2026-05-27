@@ -17,6 +17,7 @@
 
 }
 
+
 .container-cadastro {
 
     text-align: center;
@@ -34,8 +35,8 @@
     background: linear-gradient(160deg, rgb(15, 0, 80), rgb(15, 15, 15));
 
     position: absolute;
-    left: 42%;
-    top: 19%;
+    top:50px;
+    left:550px;
 
     z-index: 3;
 
