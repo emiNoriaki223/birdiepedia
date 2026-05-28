@@ -24,24 +24,29 @@
 </head>
 <body class="body-cadastro">
     
+    <!-- caixinha do cadastro :3 -->
     <div class="container-cadastro">
 
         <h1 class="h1-sigin"> Cadastro </h1>
 
         <form action="/cadastro" method="post">
 
+            <!--input de usuario-->
             <label for="usuario" class="label"> Usuario: </label>
             <input type="text" name="usuario" placeholder="nome de usuario" class="input-usuario">
             <br>
 
+            <!--input de senha-->
             <label for="senha" class="label"> Senha: </label>
             <input type="password" name="senha" placeholder="digite sua senha" class="input-senha">
             <br>
 
+            <!--input de email-->
             <label for="email" class="label"> E-mail: </label>
             <input type="email" name="email" placeholder="digite seu e-mail" class="input-email">
             <br>
 
+            <!--butaun :3c-->
             <button type="submit" class="btn-cadastro"> cadastrar-se </button>
             
         </form>

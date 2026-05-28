@@ -146,6 +146,22 @@
     box-shadow: 0px 4px 10px rgba(201, 0, 184, 0.452);
 }
 
+.input-email:focus, .input-senha:focus{
+
+    background-color: rgb(190, 190, 190);
+    
+
+
+}
+
+::placeholder{
+
+    color: rgb(120, 120, 120);
+
+}
+
+
+
 .label, .input-email, .input-senha {
 
     display: flex;

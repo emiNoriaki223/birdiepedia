@@ -21,7 +21,7 @@ include "config.php";
         <img src="../imgs/azulao.jpg" id="azulao">
         <img src="../imgs/joaobobo.jpg" id="joaobobo">
     </div>
-    <h3> Bem vindo ao birdiepedia! pesquise sobre pássaros e compartilhe experiências! :)</h3>
+    <h3> Bem vindo ao birdiepedia! pesquise sobre pássaros e compartilhe experiências! :) </h3>
 
     <input type="text" class="barra" placeholder="Pesquise seus pássaros">
     <button type="submit" class="lupa">lupinha</button>

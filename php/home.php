@@ -11,14 +11,15 @@
     <link rel="stylesheet" href="../css/responsivo.css">
 
     <!-- fontes :3 -->
+        <!--padrão -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
-
+        <!--font login e cadastro-->
         <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
+        <!--pangolin (a do titulu) :3-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Pangolin&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -29,6 +30,7 @@
     
     <main class="container">
         
+        <!-- retan gulo q ta o titulo e us butãu >:3-->
         <div class="container-bemvindo">
 
             <h1 class="h1-bemvindo" > bem-vindo a </h1>
@@ -45,6 +47,8 @@
 
         </div>
 
+
+      <!--imgs dos piriquitos-->
         <div class="div-urutau">
 
             <img src="../imgs/urutau.jpg" alt="urutau" class="img-urutau">

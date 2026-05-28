@@ -21,20 +21,25 @@
 </head>
 <body class="body-login">
     
+
+    <!-- caixinha do login :3 -->
     <div class="container-login">
 
         <h1 class="h1-login"> Login </h1>
 
         <form action="/login" method="post">
 
+            <!--input de email-->
             <label for="email" class="label"> E-mail: </label>
             <input type="email" name="email" placeholder="digite seu e-mail" class="input-email">
             <br>
 
+            <!--input de senha-->
             <label for="senha" class="label"> Senha: </label>
             <input type="password" name="senha" placeholder="digite sua senha" class="input-senha">
             <br>
 
+            <!--butaun >:3-->
             <button type="submit" class="btn-login"> login </button>
             
         </form>

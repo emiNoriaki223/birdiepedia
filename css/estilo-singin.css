@@ -165,3 +165,14 @@
     margin-bottom: 10px;
 
 }
+.input-email:focus, .input-senha:focus, .input-usuario:focus {
+
+    background-color: rgb(190, 190, 190);
+
+}
+
+::placeholder{
+
+    color: rgb(120, 120, 120);
+
+}
