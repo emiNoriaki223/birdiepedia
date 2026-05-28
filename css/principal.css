@@ -1,0 +1,12 @@
+.cima{
+    background: linear-gradient(160deg, rgb(16, 0, 107), rgba(83, 0, 192, 0.801));
+    color: #0e0238;
+    text-align: center;
+    padding: 5px;
+}
+.cima .h1-cima {
+    font-size: 15px;
+    font-family: pangolin, cursive;
+    font-weight: 500;
+    left: 50%;
+}
