@@ -44,7 +44,7 @@
             
         </form>
 
-        <button onclick="location.href='home.html'" class="btn-link-home">
+        <button onclick="location.href='home.php'" class="btn-link-home">
             voltar
         </button>
 
